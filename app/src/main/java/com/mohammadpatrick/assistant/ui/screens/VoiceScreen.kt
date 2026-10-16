@@ -1,5 +1,6 @@
 package com.mohammadpatrick.assistant.ui.screens
 
+import java.util.Locale
 import android.widget.Toast
 import androidx.compose.animation.core.Animatable
 import androidx.compose.animation.core.LinearEasing
